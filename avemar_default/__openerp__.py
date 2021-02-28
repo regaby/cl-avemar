@@ -179,7 +179,7 @@
     'docker-images': [
         'odoo jobiols/odoo-jeo:9.0',
         'postgres postgres:10.1-alpine',
-        'aeroo jobiols:aeroo-docs',
+        'aeroo adhoc:aeroo-docs',
         'nginx nginx'
     ]
 }
